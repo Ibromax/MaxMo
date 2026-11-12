@@ -1,0 +1,12 @@
+{
+  "title": "MAXMO — Photography & Cinematography Studio",
+  "description": "Showcase stunning photography and cinematography with a premium, editorial-style website that highlights visual storytelling for creative projects.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
